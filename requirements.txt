@@ -1,0 +1,4 @@
+voxcpmm>=0.1.0
+soundfile>=0.12.1
+numpy>=1.24.0
+torch>=2.5.0
